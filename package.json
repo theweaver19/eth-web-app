@@ -1,7 +1,7 @@
 {
   "name": "meth-web-app",
   "version": "1.0.0",
-  "homepage": "https://meth.mirror.finance",
+  "homepage": ".",
   "repository": "github:Mirror-Protocol/meth-web-app",
   "author": "Terra <engineering@terra.money>",
   "license": "Apache-2.0",
